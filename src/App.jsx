@@ -11,7 +11,7 @@ const App = () => {
     <div className="min-h-screen w-full relative bg-[#5A913B] text-white font-Rakkas">
       <Header />
       <Hero />
-      <About />
+      {/* <About /> */}
       <Mics />
       <Buy />
       <Footer />

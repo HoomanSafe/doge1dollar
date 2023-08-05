@@ -12,7 +12,7 @@ const Mics = () => {
         <div className="w-full grid bg-[#90CA4F] p-10 grid-cols-1 lg:grid-cols-2 justify-between items-center rounded-xl mt-16">
           <ul className="flex flex-col gap-4 text-white text-xl">
             <li>$SCHEME your way to the the top to earn 90% revenue share</li>
-            <li>100,000 Supply</li>
+            <li>1,000,000 Supply</li>
             <li>90% Tax Revenue goes to holder in $USDC</li>
             <li>Private Presales 20%</li>
             <li>Uniswap 20%</li>
