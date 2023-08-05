@@ -9,7 +9,7 @@ const Footer = () => {
         </a>
 
         <div className="flex items-center gap-5">
-          <a href="">
+          <a href="https://twitter.com/getrichquickerc">
             <svg
               width="48"
               height="48"
@@ -24,7 +24,7 @@ const Footer = () => {
               />
             </svg>
           </a>
-          <a href="">
+          <a href="https://t.me/getrichquickschemeerc">
             <svg
               width="48"
               height="48"

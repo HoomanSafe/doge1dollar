@@ -29,10 +29,10 @@ const Hero = () => {
         </p>
 
         <div className="flex gap-6 flex-col justify-center items-center md:flex-row">
-          <a href="" className="">
+          <a href="https://t.me/getrichquickschemeerc" className="">
             <div className="px-8 py-4 bg-amber-500 rounded-full justify-center items-center gap-2.5 inline-flex">
               <div className="text-white text-xl font-Modak leading-7 tracking-tight">
-                BUY NOW
+                TELEGRAM
               </div>
             </div>
           </a>
