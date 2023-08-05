@@ -23,9 +23,9 @@ const Hero = () => {
           $CHEME
         </h1>
         <p className="max-w-[435px] text-center text-white text-base font-Rakkas leading-loose">
-          American dollar is loosing its value. Crypto Era is becoming
-          mainstream and there’s very chance that world adopts Ethereum as the
-          global leading{" "}
+          Introducing "EthEmpire: The 90% Revolution" – where we're flipping the
+          crypto world on its head and making it rain with laughter and riches!
+          🎉💰
         </p>
 
         <div className="flex gap-6 flex-col justify-center items-center md:flex-row">
