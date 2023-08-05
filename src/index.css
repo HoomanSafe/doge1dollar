@@ -1,0 +1,13 @@
+@import url("https://fonts.cdnfonts.com/css/modak");
+@import url("https://fonts.cdnfonts.com/css/rakkas");
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer {
+  #hero {
+    background: url(./assets/heroBg.svg) center center no-repeat;
+    background-size: cover;
+  }
+}
