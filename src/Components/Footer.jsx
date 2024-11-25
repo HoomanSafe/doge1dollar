@@ -5,11 +5,11 @@ const Footer = () => {
     <footer className="py-5 w-full bg-[#5A913B]">
       <div className="container flex justify-between items-center gap-10 flex-col md:flex-row">
         <a href="" className="text-white text-[32px] font-Modak">
-          $SCHEME
+          $DOGE1
         </a>
 
         <div className="flex items-center gap-5">
-          <a href="https://twitter.com/getrichquickerc">
+          <a href="">
             <svg
               width="48"
               height="48"
@@ -24,7 +24,7 @@ const Footer = () => {
               />
             </svg>
           </a>
-          <a href="https://t.me/getrichquickschemeerc">
+          <a href="https://t.me/Doge_1Dollar">
             <svg
               width="48"
               height="48"
@@ -39,7 +39,7 @@ const Footer = () => {
               />
             </svg>
           </a>
-          <a href="">
+          <a href="https://bscscan.com/token/0x06207a94ea8074b12E8E9119d638731D1ac80D48">
             <svg
               width="48"
               height="48"
@@ -70,7 +70,7 @@ const Footer = () => {
               </defs>
             </svg>
           </a>
-          <a href="">
+          <a href="https://www.dextools.io/app/en/bnb/pair-explorer/0x4f993aac5de58418552079606619c9f619b1a94e?t=1732539364782">
             <svg
               width="48"
               height="48"
