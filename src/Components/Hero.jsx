@@ -1,6 +1,6 @@
 import React from "react";
-import hero1 from "../assets/hero1.png";
-import hero2 from "../assets/hero2.png";
+import hero1 from "../assets/dogebanner-removebg-preview.png";
+import hero2 from "../assets/doge1logo-removebg-preview.png";
 
 const Hero = () => {
   return (
@@ -20,16 +20,15 @@ const Hero = () => {
       />
       <div className="container flex flex-col justify-center items-center gap-6">
         <h1 className="text-center text-white text-7xl md:text-9xl font-Modak leading-[120px] tracking-[2.80px]">
-          $CHEME
+          $DOGE1
         </h1>
         <p className="max-w-[435px] text-center text-white text-base font-Rakkas leading-loose">
-          Introducing "EthEmpire: The 90% Revolution" – where we're flipping the
-          crypto world on its head and making it rain with laughter and riches!
+          Welcome to Doge_1Dollar—where community, passion, and cryptocurrency come together to create history. Let's make $1 happen!
           🎉💰
         </p>
 
         <div className="flex gap-6 flex-col justify-center items-center md:flex-row">
-          <a href="https://t.me/getrichquickschemeerc" className="">
+          <a href="https://t.me/Doge_1Dollar" className="">
             <div className="px-8 py-4 bg-amber-500 rounded-full justify-center items-center gap-2.5 inline-flex">
               <div className="text-white text-xl font-Modak leading-7 tracking-tight">
                 TELEGRAM
@@ -38,7 +37,7 @@ const Hero = () => {
           </a>
 
           <a
-            href=""
+            href="https://www.dextools.io/app/en/bnb/pair-explorer/0x4f993aac5de58418552079606619c9f619b1a94e?t=1732539364782"
             className="p-[3px] rounded-full border border-cyan-600 justify-center items-center inline-flex"
           >
             <div className="grow shrink basis-0 self-stretch px-8 py-4 bg-cyan-600 rounded-full justify-center items-center gap-2.5 inline-flex">
