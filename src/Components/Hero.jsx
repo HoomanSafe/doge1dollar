@@ -1,5 +1,5 @@
 import React from "react";
-import hero1 from "../assets/dogebanner-removebg-preview.png";
+import hero1 from "../assets/doge1logo-removebg-preview.png";
 import hero2 from "../assets/doge1logo-removebg-preview.png";
 
 const Hero = () => {
