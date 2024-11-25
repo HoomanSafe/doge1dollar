@@ -46,6 +46,16 @@ const Hero = () => {
               </div>
             </div>
           </a>
+          <a
+            href=""
+            className="p-[3px] rounded-full border border-cyan-600 justify-center items-center inline-flex"
+          >
+            <div className="grow shrink basis-0 self-stretch px-8 py-4 bg-cyan-600 rounded-full justify-center items-center gap-2.5 inline-flex">
+              <div className="text-white text-xl font-Modak leading-7 tracking-tight">
+                Stake earn $DOGECOIN
+              </div>
+            </div>
+          </a>
         </div>
       </div>
     </section>
